@@ -1,7 +1,11 @@
 # Example code for a Rest web service built using Python (Flask) and Postgres
 
 This repository is adaptation of the work at
+
 https://medium.com/@hmajid2301/implementing-sqlalchemy-with-docker-cb223a8296de
+
+https://github.com/hmajid2301/articles/tree/master/8.%20Docker%20with%20SQLAlchemy
+
 ## Installation 
 
 Assuming you have `docker` and `docker-compose` installed 
